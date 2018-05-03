@@ -1,6 +1,7 @@
 module.exports = {
   title: 'FUI',
   evergreen: true,
+  base: 'vuepress',
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]
   ],
