@@ -1,7 +1,7 @@
 import Vue from 'vue'
-import FUI from '@falcon/FUI'
-import '@falcon/FUI/dist/fui.min.css'
-Vue.use(FUI)
+// import FUI from '@falcon/FUI'
+// import '@falcon/FUI/dist/fui.min.css'
+// Vue.use(FUI)
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
