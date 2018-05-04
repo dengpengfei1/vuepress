@@ -5,8 +5,5 @@
   },
   "devDependencies": {
     "vuepress": "^0.8.4"
-  },
-  "dependencies": {
-    "@falcon/FUI": "^1.5.5"
   }
 }
