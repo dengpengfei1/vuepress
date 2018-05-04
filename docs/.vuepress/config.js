@@ -1,7 +1,7 @@
 module.exports = {
   title: 'FUI',
   evergreen: true,
-  base: '/fui/',
+  // base: '/fui/',
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]
   ],
