@@ -2,6 +2,8 @@
 navbar: false
 pageClass: version-update-page-class
 # layout: FuiBase
+prev: ./guide
+next: ./guide
 ---
 <Title title="版本更新" />
 <FuiBase tag="t1-5-5" title="修复bug"/>

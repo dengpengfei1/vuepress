@@ -25,6 +25,7 @@ export default {
   border-bottom: 1px solid #E8E8E8;
   margin-top: 0 !important;
   text-align: center;
+  background-color: #fff;
 }
 .title h3 {
   line-height: 50px;
