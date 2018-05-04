@@ -3,11 +3,16 @@ home: true
 actionText: 起步 →
 actionLink: /guide/gui
 footer: MIT Licensed
-# navbar: false
 sidebarDepth: 2
 sidebar: auto
 pageClass: custom-page-class
-# layout: FancyUi
+# features:
+# - title: Simplicity First
+#   details: Minimal setup with markdown-centered project structure helps you focus on writing.
+# - title: Vue-Powered
+#   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+# - title: Performant
+#   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 ---
 
 #### 版本迭代计划

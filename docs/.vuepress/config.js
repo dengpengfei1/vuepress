@@ -10,6 +10,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '起步', link: '/guide/gui' },
+      { text: '规划', link: '/target/target' },
       { text: '版本更新', link: '/version/version-2' }
     ],
     sidebar: [
