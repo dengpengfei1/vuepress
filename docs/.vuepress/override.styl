@@ -12,10 +12,23 @@ $codeBgColor = #282c34
 
 // version 页面样式重置
 .theme-container.version-update-page-class {
-  .custom-layout {
-    padding-top: 0;
-  }
   .content {
-    margin-top: 60px;  
+    padding-top: 0;
+    > div {
+      margin-top: 50px;
+    }
+    > h1 {
+      display: none;
+    }
+    > .inner {
+      border-top: none;
+      span {
+        a {
+          display: inline-block;
+          height 40px;
+          line-height: 40px;
+        }
+      }
+    }
   }
 }

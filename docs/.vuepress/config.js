@@ -10,7 +10,22 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '起步', link: '/guide/gui' },
-      { text: '版本更新', link: '/version/update' }
+      { text: '版本更新', link: '/version/version-2' }
+    ],
+    sidebar: [
+      {
+        title: 'version-2',
+        collapsable: false,
+        children: [
+          '/version/version-2'
+        ]
+      },
+      {
+        title: 'version-1',
+        children: [
+          '/version/version-1'
+        ]
+      }
     ]
   },
   markdown: {
